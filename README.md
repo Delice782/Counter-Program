@@ -1,4 +1,4 @@
-                                   # Counter-Program
+# Counter-Program
 
 ## Description
 This repository contains a straightforward web application designed to enable users to modify a numerical value using a simple interface. It features three main functions: incrementing the number, decrementing the number, and resetting the number to zero. This application combines HTML for structure, CSS for styling, and JavaScript for functionality, offering an engaging and interactive user experience suitable for demonstrating basic web development skills.
