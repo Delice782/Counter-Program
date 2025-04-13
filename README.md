@@ -1,4 +1,3 @@
-                  
 # Counter-Program
 
 ## Description
